@@ -690,7 +690,8 @@ li {
     display: none; } }
 
 .requirements {
-  margin-bottom: 138px; }
+  position: relative;
+  margin-bottom: 82px; }
 
 .requirements__title {
   margin-bottom: 30px;
